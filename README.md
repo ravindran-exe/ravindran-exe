@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Blockchain**
-
 - 💬 Ask me about **react.js**
 
 - ⚡ Fun fact **There are only 10 types of people in the world: those who understand binary, and those who don't**
