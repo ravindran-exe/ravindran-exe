@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ravindran V</h1>
-<h3 align="center">A amateur developer</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
