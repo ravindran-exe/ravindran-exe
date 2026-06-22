@@ -2,12 +2,6 @@ $$\Huge{\textbf{RAVINDRAN \ V}}$$
 
 $$\textit{Crafting interfaces. \ Exploring intelligence.}$$
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravindran-v-7a3b80248/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 $$\large{\S \ \textbf{1} \quad \text{About}}$$
@@ -29,9 +23,6 @@ $$\large{\texttt{SQL} \quad \texttt{MongoDB} \quad \texttt{Git} \quad \texttt{Li
 
 $$\large{\S \ \textbf{3} \quad \text{Connect}}$$
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravindran-v-7a3b80248/">LinkedIn — Ravindran V</a>
-</p>
 
 ---
 
